@@ -1,0 +1,1 @@
+# It must be conflict file fot git merge
